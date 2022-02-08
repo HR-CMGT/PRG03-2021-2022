@@ -53,7 +53,8 @@ ons gestelde voorbeeld.
   de detailweergave vanuit de PHP via AJAX worden ingeladen en met Javascript op je scherm komen.
 - **Belangrijk**: Bij het inladen van je pagina staat er nog niets op je scherm, omdat AJAX nodig is om de data in
   te laden.
-- Maak de getoonde plaatjes dynamisch door op basis van de naam van het gerecht
+- Zorg dat de linkjes van de plaatjes ook uit de API komen, hier moet je de array uit de webservice dus voor uitbreiden.
+- **Voor de leuk (niet verplicht)**: Maak de getoonde plaatjes dynamisch door op basis van de naam van het gerecht
   de [Unsplash API](https://source.unsplash.com/) te gebruiken. Een URL van een plaatje ziet er dan bv. zo
   uit: https://source.unsplash.com/1600x900/?pizza
 
