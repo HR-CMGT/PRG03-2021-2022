@@ -1,5 +1,8 @@
 window.addEventListener('load', init);
 
+//Global variables
+let imageList = ['ballonnen', 'cars', 'planes', 'goudkistje'];
+
 /**
  * Initialize after the DOM is ready
  */
