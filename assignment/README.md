@@ -60,10 +60,12 @@ ons gestelde voorbeeld.
 
 ## Opdracht 6 (Bonus opties voor mogelijk extra punt)
 
-- Verander de backend zo dat de PHP arrays uit een database komen. Gebruik hiervoor het [ERD](./optioneel_erd.png)
+- Verander de backend zo dat de PHP arrays uit een database komen. Gebruik hiervoor een vergelijkbaar [ERD](./optioneel_erd.png)
 - Haal de foto's op uit de Instagram of Flickr API om een complexere API te gebruiken dan de eenvoudigere unsplash API.
-- Maak een uitgebreidere HTML/CSS variant waarin je bijvoorbeeld een SCSS gebruikt, of een specifiek HTML of CSS
-  framework.
+- Maak een uitgebreidere HTML/CSS variant waarin je bijvoorbeeld een SCSS-structuur gebruikt, of een specifiek HTML of CSS
+  framework. (bootstrap telt niet als framework)
 - Schrijf je PHP backend volledig OOP op basis van opgedane kennis tijdens de Advanced PHP lessen.
 - Schrijf de Javascript op een professionelere manier via objecten, en pas technieken zoals arrow functions en/of
   promises toe.
+
+Twijfel je over bonuspunten, controleer dit dan met je docent!
