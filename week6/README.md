@@ -1,7 +1,7 @@
 # PRG03 Week 6
 
-- Oefen met de code van de [Calendar](./hands-on) om het principe en werking van AJAX beter te begrijpen en toe
-  te kunnen passen. Deze opdracht hebben we samen in de les gemaakt.
+- Bekijk de voortgang van de opdracht van het [Pokémon Gallery](./pokemon-progress) als inspiratie voor vervolgopdrachten.
+  In de les is de code hiervoor samen gemaakt en stap voor stap uitgelegd. Volgende week gaan we deze opdracht samen afronden.
 - Maak **Opdracht 5** uit het assignment uit de [Hoofdopdracht](../assignment)
 - Bij behoefte aan extra oefeningen en meer informatie over AJAX, JSON & Fetch API, volg dan:
     - [Javascript project JSON](https://www.pluralsight.com/courses/javascript-project-json)
